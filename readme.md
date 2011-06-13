@@ -2,6 +2,6 @@ FilePile is a simple file browser for the iPhone. It lets you poke around the fi
 
 As this is not available on the App Store, you need a developer license to compile and download it onto your iPhone.
 
-![FilePile screenshot](http://www.bdunagan.com/files/FilePile_screenshot.png "FilePile screenshot")
+![FilePile screenshot](http://www.bdunagan.com/files/FilePile_screenshot.PNG "FilePile screenshot")
 ![FilePile image preview](http://www.bdunagan.com/files/FilePile_image_preview.png "FilePile image preview")
 ![FilePile text preview](http://www.bdunagan.com/files/FilePile_text_preview.png "FilePile text preview")
